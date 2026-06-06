@@ -33,4 +33,16 @@ void exresult()
 	{
 		printf("100‰~‹Ê‚Í %d–‡ ‚Å‚·", hun);
 	}
+	if (0 != fifty)
+	{
+		printf("50‰~‹Ê‚Í %d–‡ ‚Å‚·", fifty);
+	}
+	if (0 != tenn)
+	{
+		printf("10‰~‹Ê‚Í %d–‡ ‚Å‚·", tenn);
+	}
+	if (0 != one)
+	{
+		printf("1‰~‹Ê‚Í %d–‡ ‚Å‚·", one);
+	}
 }

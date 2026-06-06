@@ -6,8 +6,12 @@
 int main()
 {
     int yen;
+    int num;
+    int num1;
 
     printf("1以上の整数を入力してください\n");
     scanf_s("%d", yen);
+
+
 }
 
